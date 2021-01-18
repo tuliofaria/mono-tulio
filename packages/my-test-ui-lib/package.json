@@ -1,0 +1,22 @@
+{
+  "name": "@tuliofaria/my-test-ui-lib",
+  "version": "0.0.1",
+  "description": "This is my UI library based on React + TS",
+  "author": "Tulio Faria <tuliofaria@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/my-test-ui-lib.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
