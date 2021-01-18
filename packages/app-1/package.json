@@ -1,6 +1,6 @@
 {
   "name": "app-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Tulio Faria <tuliofaria@gmail.com>",
   "homepage": "https://github.com/tuliofaria/mono-tulio#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/tuliofaria/mono-tulio/issues"
   },
   "dependencies": {
-    "@tuliofaria/my-test-ui-lib": "^0.0.1",
+    "@tuliofaria/my-test-ui-lib": "^0.0.2",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
