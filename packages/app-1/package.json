@@ -1,0 +1,32 @@
+{
+  "name": "app-1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Tulio Faria <tuliofaria@gmail.com>",
+  "homepage": "https://github.com/tuliofaria/mono-tulio#readme",
+  "license": "ISC",
+  "main": "lib/app-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuliofaria/mono-tulio.git"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "bugs": {
+    "url": "https://github.com/tuliofaria/mono-tulio/issues"
+  },
+  "dependencies": {
+    "@tuliofaria/my-test-ui-lib": "^0.0.1",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
