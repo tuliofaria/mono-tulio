@@ -1,5 +1,5 @@
 {
-  "name": "app-1",
+  "name": "@tuliofaria/app-1",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Tulio Faria <tuliofaria@gmail.com>",
@@ -28,5 +28,6 @@
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "gitHead": "6989546e95d8bc1f6b15a04e210b4be221f2ddbd"
 }
