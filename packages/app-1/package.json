@@ -18,7 +18,9 @@
     "url": "git+https://github.com/tuliofaria/mono-tulio.git"
   },
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
   },
   "bugs": {
     "url": "https://github.com/tuliofaria/mono-tulio/issues"
